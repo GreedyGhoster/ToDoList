@@ -1,0 +1,32 @@
+body {
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.input-text {
+  margin: auto;
+  outline-style: none;
+  height: 20px;
+  width: 11rem;
+}
+.submit {
+  margin: auto;
+  height: 26px;
+  width: 11rem;
+  background-color: cornsilk;
+  border: 1px groove;
+}
+.todolist {
+  margin-right: 17%;
+  width: auto;
+  height: auto;
+}
+.uls {
+  margin-top: -1.5rem;
+  list-style-position: outside;
+  margin-left: 44%;
+  display: flex;
+  text-align: left;
+  width: auto;
+  height: auto;
+}
